@@ -1,0 +1,48 @@
+/* reset */
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'roboto',arial,sans-serif;
+}
+
+/* body */
+
+.inicio{
+	padding: 20px;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+.inicio h1{
+	text-transform: uppercase;
+	margin: 20px;
+	letter-spacing: 3px;	
+}
+
+
+.inicio p{
+	padding: 5px 30px;
+	font-size: 1.4em;
+	letter-spacing: 2px;	
+	word-spacing: 8px;
+
+}
+
+.tatuagem{
+	margin: 20px;
+}
+
+.tatuagem img{
+	max-width: 420px;
+	display: block;	
+	margin: 0 auto;
+}
+
+.tatuagem p{
+	margin: 20px;
+	text-align: center;
+	font-size: 1.125em;
+}
+
